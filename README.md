@@ -214,10 +214,9 @@ src/
 The application is deployed on Vercel with automatic deployments from the main branch.
 
 ### Build Commands
-\`\`\`bash
+
 npm run build
 npm run start
-\`\`\`
 
 ## 🐛 Known Issues & Limitations
 
@@ -256,9 +255,9 @@ npm run start
 ## 👨‍💻 Developer
 
 **Your Name**
-- Email: your.email@example.com
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- Email: amitkojha2802@gmail.com
+- GitHub: [amitkojha05](https://github.com/amitkojha05)
+- LinkedIn: [Amit Kumar Ojha](https://www.linkedin.com/in/amit-kumar-ojha-84a697263)
 
 ## 📄 License
 
