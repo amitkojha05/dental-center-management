@@ -4,7 +4,7 @@ A comprehensive dental center management system built with React, Next.js, and T
 
 ## 🚀 Live Demo
 
-[Deployed Application](https://your-deployed-app-url.vercel.app)
+[Deployed Application](https://v0-assignment-preparation-pdzzaf95r-amit-kumar-ojhas-projects.vercel.app/)
 
 ## 📋 Features
 
